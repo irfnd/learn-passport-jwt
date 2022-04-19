@@ -4,8 +4,9 @@ Berikut ini merupakan contoh sederhana penggunaan passport untuk menangani auten
 ## Teknologi
 1. Express.js
 2. MongoDB
-3. Passport
-4. Passport-jwt
+3. Jsonwebtoken
+4. Passport
+5. Passport-jwt
 
 ## Fitur
 1. Register pengguna baru
